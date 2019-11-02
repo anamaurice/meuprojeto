@@ -1,0 +1,10 @@
+.linha-verde {
+    background-color: rgb(40, 197, 26);
+    height: 10px;
+    width: 100%;
+}
+header{
+    background-image: url(./imagens/banner.png);
+    height: 500px;
+    width: 100%;
+}
